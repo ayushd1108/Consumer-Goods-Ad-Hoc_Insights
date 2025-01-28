@@ -16,7 +16,7 @@ As an applicant for this role, my responsibilities included:
 
 - Reviewing the [ad-hoc-requests.pdf](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/ad-hoc-requests.pdf), which outlines 10 key business insights required for the company.
 - Writing and executing [SQL queries](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/SQL_code.sql) to retrieve the necessary data to answer these requests.
-- Designing a comprehensive presentation to communicate the insights to top-level management, ensuring clarity and actionable recommendations.
+- Designing a comprehensive [presentation](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Ad-Hoc-Analysis%20Presentation.pptx) ([Presentation PDF](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Ad-Hoc%20Analysis%20PDF.pdf))to communicate the insights to top-level management, ensuring clarity and actionable recommendations.
 - I additinally created a [Power BI report](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Consumer%20Goods%20Ad-Hoc-Analysis%20Visualization.pbix) to visualize the data for stakeholders.
 
 ## My Approach
@@ -45,7 +45,7 @@ This project allowed me to demonstrate a combination of technical skills in SQL 
 - [ad-hoc-requests.pdf](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/ad-hoc-requests.pdf): Document containing the 10 ad-hoc business requests that need to be addressed.
 - [SQL Queries](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/SQL_code.sql): Folder containing the SQL scripts used to extract the data required for the insights.
 - [Power BI Visualizations](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Consumer%20Goods%20Ad-Hoc-Analysis%20Visualization.pbix): Folder containing Power BI files with visualizations of the extracted data.
-- Presentation: PowerPoint file showcasing the insights and strategic recommendations for management.
+- [Presentation](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Ad-Hoc-Analysis%20Presentation.pptx) ([Presentation PDF](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Ad-Hoc%20Analysis%20PDF.pdf)): PowerPoint file showcasing the insights and strategic recommendations for management.
 - Task Files: CSV files containing the result sets of the SQL queries for 10 Ad-Hoc-Requests.
 
 ## How to Use
@@ -59,7 +59,7 @@ This project allowed me to demonstrate a combination of technical skills in SQL 
 - These visualizations are designed to provide a deeper understanding of the business insights.
 
 **Presentation**
-- Open the PowerPoint presentation file to view the summary of insights and recommendations.
+- Open the PowerPoint [presentation](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Ad-Hoc-Analysis%20Presentation.pptx) ([Presentation PDF](https://github.com/ayushd1108/Consumer-Goods-Ad-Hoc_Insights/blob/main/Ad-Hoc%20Analysis%20PDF.pdf)) file to view the summary of insights and recommendations.
 - The presentation is structured to provide a comprehensive yet concise overview, targeting top-level management’s needs.
 
 ## Conclusion
